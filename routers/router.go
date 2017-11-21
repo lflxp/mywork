@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"code.lflxp.cn/life/mywork/controllers"
+	"github.com/lflxp/mywork/controllers"
 	"github.com/astaxie/beego"
 )
 
