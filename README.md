@@ -2,7 +2,7 @@
 
 效率、知识积累、成就更大的产品
 
-# SFlow [![Travis](https://travis-ci.org/lflxp/sflow.svg?branch=master)](https://api.travis-ci.org/lflxp/sflow) [![GoDoc](https://godoc.org/github.com/lflxp/sflow?status.svg)](https://godoc.org/github.com/lflxp/sflow) [![Coverage Status](https://coveralls.io/repos/github/lflxp/sflow/badge.svg?branch=master)](https://coveralls.io/github/lflxp/sflow?branch=master)
+# SFlow [![Travis](https://travis-ci.org/lflxp/mywork.svg?branch=master)](https://api.travis-ci.org/lflxp/mywork) [![GoDoc](https://godoc.org/github.com/lflxp/sflow?status.svg)](https://godoc.org/github.com/lflxp/sflow) [![Coverage Status](https://coveralls.io/repos/github/lflxp/sflow/badge.svg?branch=master)](https://coveralls.io/github/lflxp/sflow?branch=master)
 
 # Info
 Parsing sFlow for packetbeat plug-ins
